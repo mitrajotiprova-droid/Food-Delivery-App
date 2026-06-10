@@ -145,10 +145,6 @@ If you found this project useful, please give it a ⭐ on GitHub.
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.
-
----
 
 ### Made with ❤️ using Python
